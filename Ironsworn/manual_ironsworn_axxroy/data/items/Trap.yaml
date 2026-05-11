@@ -250,3 +250,10 @@ Timespinner:
 Kingdom Hearts:
 - name: Ambush
   description: A swarm of minor Heartless
+Luigi's Mansion:
+- name: Trap
+  description: The door behind you locks on its own
+- name: Trap
+  description: The door behind you gets covered in pointy brambles
+- name: Ambush
+  description: Prankster spirits surround you

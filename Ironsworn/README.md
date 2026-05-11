@@ -273,7 +273,7 @@ This dungeon is full of twists and turns, secret doors and dead ends. You may re
 
 ##### Mt. Moon
 
-##### Pokemon Tower
+##### Pokmon Tower
 
 ##### Power Plant
 
