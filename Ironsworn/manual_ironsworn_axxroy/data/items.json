@@ -27,7 +27,7 @@
     "game": "A Short Hike"
   },
   {
-    "name": "BERSERKER - DOOM 1993 - RIP AND TEAR",
+    "name": "BERSERKER - DOOM 1993 - RIP AND TEAR!",
     "category": [
       "Asset"
     ],
@@ -108,7 +108,7 @@
     "game": "DOOM II"
   },
   {
-    "name": "VETERAN - DOOM II - Death surrounds me, yet, in my head I hear something that soudns like angels.",
+    "name": "VETERAN - DOOM II - Death surrounds me, yet, in my head I hear something that sounds like angels.",
     "category": [
       "Asset"
     ],
@@ -207,6 +207,42 @@
     "game": "Hollow Knight"
   },
   {
+    "name": "BONDED - Kingdom Hearts - Faith in your friends -- and yourself",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts"
+  },
+  {
+    "name": "KINDRED - Kingdom Hearts - Knight Captain Goofy, at your service",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts"
+  },
+  {
+    "name": "LOREKEEPER - Kingdom Hearts - Ansem's reports contain sage knowledge",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts"
+  },
+  {
+    "name": "LOYALIST - Kingdom Hearts - All for one, and one for all",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Kingdom Hearts"
+  },
+  {
     "name": "FIREBRAND [SF] - Kingdom Hearts 2 - Firaga!",
     "category": [
       "Asset"
@@ -250,6 +286,24 @@
     "count": "1",
     "useful": true,
     "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "COMMUNION - Luigi's Mansion - The spirits of the mansion are restless",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Luigi's Mansion"
+  },
+  {
+    "name": "LIGHTBEARER - Luigi's Mansion - Light keeps the ghosts at bay",
+    "category": [
+      "Asset"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Luigi's Mansion"
   },
   {
     "name": "GUNNER [SF] - FFXIV - A machinist's handgonne",
@@ -612,7 +666,7 @@
     "game": "Pokemon Emerald"
   },
   {
-    "name": "ANIMAL-KIN - Pkmn R/B - A pokedex tells you exactly what animals want",
+    "name": "ANIMAL-KIN - Pkmn R/B - A Pok\u00c3\u00a9dex tells you exactly what animals want",
     "category": [
       "Asset"
     ],
@@ -639,7 +693,7 @@
     "game": "Pokemon Red and Blue"
   },
   {
-    "name": "HAWK - Pkmn R/B - A beautiful Pigeot",
+    "name": "HAWK - Pkmn R/B - A beautiful Pidgeot",
     "category": [
       "Asset"
     ],
@@ -1467,7 +1521,7 @@
     "game": "Super Mario 64"
   },
   {
-    "name": "FIREBRAND [SF] - Super Mario 64 - A fireflower",
+    "name": "FIREBRAND [SF] - Super Mario 64 - A Fire Flower",
     "category": [
       "Asset"
     ],
@@ -1539,7 +1593,7 @@
     "game": "Super Mario World"
   },
   {
-    "name": "WARD - Super Mario World - A super star grants protection",
+    "name": "WARD - Super Mario World - A Super Star grants you protection",
     "category": [
       "Asset"
     ],
@@ -1566,7 +1620,7 @@
     "game": "Super Metroid"
   },
   {
-    "name": "GIANT SPIDER - Super Metroid - A strangely friendly metroid",
+    "name": "GIANT SPIDER - Super Metroid - A strangely friendly Metroid",
     "category": [
       "Asset"
     ],
@@ -1908,7 +1962,7 @@
     "game": "DOOM II"
   },
   {
-    "name": "Factorio - A biter hive",
+    "name": "Factorio - Biter Hive",
     "category": [
       "Dungeon"
     ],
@@ -1917,7 +1971,7 @@
     "game": "Factorio"
   },
   {
-    "name": "Factorio - Crashed spaceship",
+    "name": "Factorio - Crashed Spaceship",
     "category": [
       "Dungeon"
     ],
@@ -1926,7 +1980,7 @@
     "game": "Factorio"
   },
   {
-    "name": "Factorio - Underground worm tunnels",
+    "name": "Factorio - Underground Worm Tunnels",
     "category": [
       "Dungeon"
     ],
@@ -1971,7 +2025,43 @@
     "game": "Hollow Knight"
   },
   {
-    "name": "Kingdom Hearts 2 - Memory's Castle",
+    "name": "Kingdom Hearts - Agrabah",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts"
+  },
+  {
+    "name": "Kingdom Hearts - Deep Jungle",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts"
+  },
+  {
+    "name": "Kingdom Hearts - Halloween Town",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts"
+  },
+  {
+    "name": "Kingdom Hearts - Hollow Bastion",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Kingdom Hearts"
+  },
+  {
+    "name": "Kingdom Hearts 2 - Port Royal",
     "category": [
       "Dungeon"
     ],
@@ -1980,7 +2070,7 @@
     "game": "Kingdom Hearts 2"
   },
   {
-    "name": "Kingdom Hearts 2 - The Castle of Nothing",
+    "name": "Kingdom Hearts 2 - Radiant Garden",
     "category": [
       "Dungeon"
     ],
@@ -1989,7 +2079,7 @@
     "game": "Kingdom Hearts 2"
   },
   {
-    "name": "Kingdom Hearts 2 - The Edge of the World",
+    "name": "Kingdom Hearts 2 - The Castle that Never Was",
     "category": [
       "Dungeon"
     ],
@@ -1998,7 +2088,7 @@
     "game": "Kingdom Hearts 2"
   },
   {
-    "name": "Kingdom Hearts 2 - The Hollow Bastion",
+    "name": "Kingdom Hearts 2 - The Land of Dragons",
     "category": [
       "Dungeon"
     ],
@@ -2439,7 +2529,7 @@
     "game": "Pokemon Emerald"
   },
   {
-    "name": "Pkmn Em - Team Aqual Hideout",
+    "name": "Pkmn Em - Team Aqua Hideout",
     "category": [
       "Dungeon"
     ],
@@ -2466,7 +2556,7 @@
     "game": "Pokemon Red and Blue"
   },
   {
-    "name": "Pkmn R/B - Pokemon Tower",
+    "name": "Pkmn R/B - Pok\u00c3\u00a9mon Tower",
     "category": [
       "Dungeon"
     ],
@@ -2484,7 +2574,7 @@
     "game": "Pokemon Red and Blue"
   },
   {
-    "name": "Pkmn R/B - Rocket Hideout",
+    "name": "Pkmn R/B - Team Rocket Hideout",
     "category": [
       "Dungeon"
     ],
@@ -2565,15 +2655,6 @@
     "game": "Rogue Legacy"
   },
   {
-    "name": "SA2B - A.R.K.",
-    "category": [
-      "Dungeon"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Sonic Adventure 2 Battle"
-  },
-  {
     "name": "SA2B - Downtown San Francisco",
     "category": [
       "Dungeon"
@@ -2593,6 +2674,15 @@
   },
   {
     "name": "SA2B - Island Military Complex",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Sonic Adventure 2 Battle"
+  },
+  {
+    "name": "SA2B - Space Colony A.R.K.",
     "category": [
       "Dungeon"
     ],
@@ -2646,7 +2736,7 @@
     "game": "Super Mario 64"
   },
   {
-    "name": "Super Mario 64 - Cool Cool Mountain",
+    "name": "Super Mario 64 - Cool, Cool Mountain",
     "category": [
       "Dungeon"
     ],
@@ -2664,7 +2754,25 @@
     "game": "Super Mario 64"
   },
   {
+    "name": "Super Mario 64 - Shifting Sand Land",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario 64"
+  },
+  {
     "name": "Super Mario 64 - Tick Tock Clock",
+    "category": [
+      "Dungeon"
+    ],
+    "count": "1",
+    "progression": true,
+    "game": "Super Mario 64"
+  },
+  {
+    "name": "Super Mario 64 - Whomp's Fortress",
     "category": [
       "Dungeon"
     ],
@@ -2934,15 +3042,6 @@
     "game": "A Short Hike"
   },
   {
-    "name": "A Short Hike - One Walkie Talkie",
-    "category": [
-      "Items"
-    ],
-    "count": "1",
-    "filler": true,
-    "game": "A Short Hike"
-  },
-  {
     "name": "A Short Hike - Pickaxe",
     "category": [
       "Items"
@@ -2980,6 +3079,15 @@
   },
   {
     "name": "A Short Hike - Sunhat",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "A Short Hike"
+  },
+  {
+    "name": "A Short Hike - Walkie-talkie",
     "category": [
       "Items"
     ],
@@ -3330,6 +3438,51 @@
     "game": "Hollow Knight"
   },
   {
+    "name": "Kingdom Hearts - A good-luck charm made of seashells",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts"
+  },
+  {
+    "name": "Kingdom Hearts - A healing potion",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts"
+  },
+  {
+    "name": "Kingdom Hearts - A mana-restoring ether",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts"
+  },
+  {
+    "name": "Kingdom Hearts - A paopu fruit",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts"
+  },
+  {
+    "name": "Kingdom Hearts - A piece of Ansem's report",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts"
+  },
+  {
     "name": "Kingdom Hearts 2 - A bangle charged with energy",
     "category": [
       "Items"
@@ -3339,7 +3492,25 @@
     "game": "Kingdom Hearts 2"
   },
   {
+    "name": "Kingdom Hearts 2 - A large shield",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
     "name": "Kingdom Hearts 2 - A mysterious keychain",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Kingdom Hearts 2 - A pouch of coins",
     "category": [
       "Items"
     ],
@@ -3366,22 +3537,31 @@
     "game": "Kingdom Hearts 2"
   },
   {
-    "name": "Kingdom Hearts 2 - Large shield",
+    "name": "Luigi's Mansion - A shining gemstone",
     "category": [
       "Items"
     ],
     "count": "1",
     "filler": true,
-    "game": "Kingdom Hearts 2"
+    "game": "Luigi's Mansion"
   },
   {
-    "name": "Kingdom Hearts 2 - Pouch of coins",
+    "name": "Luigi's Mansion - An electric flashlight",
     "category": [
       "Items"
     ],
     "count": "1",
     "filler": true,
-    "game": "Kingdom Hearts 2"
+    "game": "Luigi's Mansion"
+  },
+  {
+    "name": "Luigi's Mansion - Some golden coins",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Luigi's Mansion"
   },
   {
     "name": "FFXIV - Carbonweave Apron of Crafting",
@@ -3834,6 +4014,24 @@
     "game": "Manual_PLA_Miro"
   },
   {
+    "name": "Minecraft - A Shulker Box",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - A crossbow",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
     "name": "Minecraft - A few diamonds",
     "category": [
       "Items"
@@ -3843,7 +4041,25 @@
     "game": "Minecraft"
   },
   {
+    "name": "Minecraft - A fishing rod",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
     "name": "Minecraft - A mysterious potion",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Minecraft"
+  },
+  {
+    "name": "Minecraft - A poison-tipped arrow",
     "category": [
       "Items"
     ],
@@ -3870,25 +4086,7 @@
     "game": "Minecraft"
   },
   {
-    "name": "Minecraft - Crossbow",
-    "category": [
-      "Items"
-    ],
-    "count": "1",
-    "filler": true,
-    "game": "Minecraft"
-  },
-  {
     "name": "Minecraft - Firework Rocket",
-    "category": [
-      "Items"
-    ],
-    "count": "1",
-    "filler": true,
-    "game": "Minecraft"
-  },
-  {
-    "name": "Minecraft - Fishing Rod",
     "category": [
       "Items"
     ],
@@ -3906,25 +4104,7 @@
     "game": "Minecraft"
   },
   {
-    "name": "Minecraft - Shulker Box",
-    "category": [
-      "Items"
-    ],
-    "count": "1",
-    "filler": true,
-    "game": "Minecraft"
-  },
-  {
     "name": "Minecraft - Spyglass",
-    "category": [
-      "Items"
-    ],
-    "count": "1",
-    "filler": true,
-    "game": "Minecraft"
-  },
-  {
-    "name": "Minecraft - Tipped Arrow",
     "category": [
       "Items"
     ],
@@ -4077,6 +4257,15 @@
     "game": "Pokemon Emerald"
   },
   {
+    "name": "Pkmn R/B - A Pok\u00c3\u00a9 Ball",
+    "category": [
+      "Items"
+    ],
+    "count": "1",
+    "filler": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
     "name": "Pkmn R/B - A bicycle",
     "category": [
       "Items"
@@ -4105,15 +4294,6 @@
   },
   {
     "name": "Pkmn R/B - A gold nugget",
-    "category": [
-      "Items"
-    ],
-    "count": "1",
-    "filler": true,
-    "game": "Pokemon Red and Blue"
-  },
-  {
-    "name": "Pkmn R/B - A pokeball",
     "category": [
       "Items"
     ],
@@ -4167,7 +4347,7 @@
     "game": "Risk of Rain 2"
   },
   {
-    "name": "Risk of Rain 2 - Old war stealthkit",
+    "name": "Risk of Rain 2 - Old war stealth kit",
     "category": [
       "Items"
     ],
@@ -4329,7 +4509,7 @@
     "game": "Rogue Legacy"
   },
   {
-    "name": "SA2B - 10 Golden Rings",
+    "name": "SA2B - 10 golden rings",
     "category": [
       "Items"
     ],
@@ -4653,7 +4833,7 @@
     "game": "Super Metroid"
   },
   {
-    "name": "Super Metroid - An e-tank",
+    "name": "Super Metroid - An E-tank",
     "category": [
       "Items"
     ],
@@ -4779,7 +4959,7 @@
     "game": "The Legend of Zelda"
   },
   {
-    "name": "TLoZ - A blue rupee",
+    "name": "TLoZ - A blue Rupee",
     "category": [
       "Items"
     ],
@@ -5040,51 +5220,6 @@
     "game": "Tunic"
   },
   {
-    "name": "A Short Hike Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "A Short Hike"
-  },
-  {
-    "name": "A Short Hike Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "A Short Hike"
-  },
-  {
-    "name": "A Short Hike Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "A Short Hike"
-  },
-  {
-    "name": "A Short Hike Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "A Short Hike"
-  },
-  {
-    "name": "A Short Hike Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "A Short Hike"
-  },
-  {
     "name": "DOOM 1993 Quest 1",
     "category": [
       "Quest"
@@ -5094,277 +5229,7 @@
     "game": "DOOM 1993"
   },
   {
-    "name": "DOOM 1993 Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "DOOM 1993"
-  },
-  {
-    "name": "DOOM 1993 Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "DOOM 1993"
-  },
-  {
-    "name": "DOOM 1993 Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "DOOM 1993"
-  },
-  {
-    "name": "DOOM 1993 Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "DOOM 1993"
-  },
-  {
-    "name": "DOOM II Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "DOOM II"
-  },
-  {
-    "name": "DOOM II Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "DOOM II"
-  },
-  {
-    "name": "DOOM II Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "DOOM II"
-  },
-  {
-    "name": "DOOM II Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "DOOM II"
-  },
-  {
-    "name": "DOOM II Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "DOOM II"
-  },
-  {
-    "name": "Factorio Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Factorio"
-  },
-  {
-    "name": "Factorio Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Factorio"
-  },
-  {
-    "name": "Factorio Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Factorio"
-  },
-  {
-    "name": "Factorio Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Factorio"
-  },
-  {
-    "name": "Factorio Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Factorio"
-  },
-  {
-    "name": "Hollow Knight Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Hollow Knight"
-  },
-  {
-    "name": "Hollow Knight Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Hollow Knight"
-  },
-  {
-    "name": "Hollow Knight Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Hollow Knight"
-  },
-  {
-    "name": "Hollow Knight Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Hollow Knight"
-  },
-  {
-    "name": "Hollow Knight Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Hollow Knight"
-  },
-  {
-    "name": "Kingdom Hearts 2 Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Kingdom Hearts 2"
-  },
-  {
-    "name": "Kingdom Hearts 2 Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Kingdom Hearts 2"
-  },
-  {
-    "name": "Kingdom Hearts 2 Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Kingdom Hearts 2"
-  },
-  {
-    "name": "Kingdom Hearts 2 Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Kingdom Hearts 2"
-  },
-  {
-    "name": "Kingdom Hearts 2 Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Kingdom Hearts 2"
-  },
-  {
-    "name": "FFXIV Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_FFXIV_Silasary"
-  },
-  {
-    "name": "FFXIV Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_FFXIV_Silasary"
-  },
-  {
-    "name": "FFXIV Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_FFXIV_Silasary"
-  },
-  {
-    "name": "FFXIV Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_FFXIV_Silasary"
-  },
-  {
-    "name": "FFXIV Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_FFXIV_Silasary"
-  },
-  {
     "name": "Core Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_Ironsworn_Axxroy"
-  },
-  {
-    "name": "Core Quest 10",
     "category": [
       "Quest"
     ],
@@ -5409,42 +5274,6 @@
     "game": "Manual_Ironsworn_Axxroy"
   },
   {
-    "name": "Core Quest 6",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_Ironsworn_Axxroy"
-  },
-  {
-    "name": "Core Quest 7",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_Ironsworn_Axxroy"
-  },
-  {
-    "name": "Core Quest 8",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_Ironsworn_Axxroy"
-  },
-  {
-    "name": "Core Quest 9",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_Ironsworn_Axxroy"
-  },
-  {
     "name": "MH Rise Quest 1",
     "category": [
       "Quest"
@@ -5461,798 +5290,6 @@
     "count": "1",
     "progression": true,
     "game": "Manual_MHRiseHub_Axxroy"
-  },
-  {
-    "name": "MH Rise Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_MHRiseHub_Axxroy"
-  },
-  {
-    "name": "MH Rise Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_MHRiseHub_Axxroy"
-  },
-  {
-    "name": "MH Rise Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_MHRiseHub_Axxroy"
-  },
-  {
-    "name": "Pkmn LA Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_PLA_Miro"
-  },
-  {
-    "name": "Pkmn LA Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_PLA_Miro"
-  },
-  {
-    "name": "Pkmn LA Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_PLA_Miro"
-  },
-  {
-    "name": "Pkmn LA Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_PLA_Miro"
-  },
-  {
-    "name": "Pkmn LA Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Manual_PLA_Miro"
-  },
-  {
-    "name": "Minecraft Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Minecraft"
-  },
-  {
-    "name": "Minecraft Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Minecraft"
-  },
-  {
-    "name": "Minecraft Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Minecraft"
-  },
-  {
-    "name": "Minecraft Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Minecraft"
-  },
-  {
-    "name": "Minecraft Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Minecraft"
-  },
-  {
-    "name": "Overcooked! 2 Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Overcooked! 2"
-  },
-  {
-    "name": "Overcooked! 2 Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Overcooked! 2"
-  },
-  {
-    "name": "Overcooked! 2 Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Overcooked! 2"
-  },
-  {
-    "name": "Overcooked! 2 Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Overcooked! 2"
-  },
-  {
-    "name": "Overcooked! 2 Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Overcooked! 2"
-  },
-  {
-    "name": "Pkmn Em Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Pokemon Emerald"
-  },
-  {
-    "name": "Pkmn Em Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Pokemon Emerald"
-  },
-  {
-    "name": "Pkmn Em Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Pokemon Emerald"
-  },
-  {
-    "name": "Pkmn Em Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Pokemon Emerald"
-  },
-  {
-    "name": "Pkmn Em Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Pokemon Emerald"
-  },
-  {
-    "name": "Pkmn R/B Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Pokemon Red and Blue"
-  },
-  {
-    "name": "Pkmn R/B Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Pokemon Red and Blue"
-  },
-  {
-    "name": "Pkmn R/B Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Pokemon Red and Blue"
-  },
-  {
-    "name": "Pkmn R/B Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Pokemon Red and Blue"
-  },
-  {
-    "name": "Pkmn R/B Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Pokemon Red and Blue"
-  },
-  {
-    "name": "Risk of Rain 2 Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Risk of Rain 2"
-  },
-  {
-    "name": "Risk of Rain 2 Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Risk of Rain 2"
-  },
-  {
-    "name": "Risk of Rain 2 Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Risk of Rain 2"
-  },
-  {
-    "name": "Risk of Rain 2 Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Risk of Rain 2"
-  },
-  {
-    "name": "Risk of Rain 2 Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Risk of Rain 2"
-  },
-  {
-    "name": "Rogue Legacy Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Rogue Legacy"
-  },
-  {
-    "name": "Rogue Legacy Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Rogue Legacy"
-  },
-  {
-    "name": "Rogue Legacy Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Rogue Legacy"
-  },
-  {
-    "name": "Rogue Legacy Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Rogue Legacy"
-  },
-  {
-    "name": "Rogue Legacy Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Rogue Legacy"
-  },
-  {
-    "name": "SA2B Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Sonic Adventure 2 Battle"
-  },
-  {
-    "name": "SA2B Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Sonic Adventure 2 Battle"
-  },
-  {
-    "name": "SA2B Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Sonic Adventure 2 Battle"
-  },
-  {
-    "name": "SA2B Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Sonic Adventure 2 Battle"
-  },
-  {
-    "name": "SA2B Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Sonic Adventure 2 Battle"
-  },
-  {
-    "name": "Stardew Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Stardew Valley"
-  },
-  {
-    "name": "Stardew Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Stardew Valley"
-  },
-  {
-    "name": "Stardew Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Stardew Valley"
-  },
-  {
-    "name": "Stardew Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Stardew Valley"
-  },
-  {
-    "name": "Stardew Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Stardew Valley"
-  },
-  {
-    "name": "Super Mario 64 Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Mario 64"
-  },
-  {
-    "name": "Super Mario 64 Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Mario 64"
-  },
-  {
-    "name": "Super Mario 64 Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Mario 64"
-  },
-  {
-    "name": "Super Mario 64 Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Mario 64"
-  },
-  {
-    "name": "Super Mario 64 Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Mario 64"
-  },
-  {
-    "name": "Super Mario World Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Mario World"
-  },
-  {
-    "name": "Super Mario World Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Mario World"
-  },
-  {
-    "name": "Super Mario World Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Mario World"
-  },
-  {
-    "name": "Super Mario World Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Mario World"
-  },
-  {
-    "name": "Super Mario World Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Mario World"
-  },
-  {
-    "name": "Super Metroid Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Metroid"
-  },
-  {
-    "name": "Super Metroid Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Metroid"
-  },
-  {
-    "name": "Super Metroid Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Metroid"
-  },
-  {
-    "name": "Super Metroid Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Metroid"
-  },
-  {
-    "name": "Super Metroid Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Super Metroid"
-  },
-  {
-    "name": "Terraria Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Terraria"
-  },
-  {
-    "name": "Terraria Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Terraria"
-  },
-  {
-    "name": "Terraria Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Terraria"
-  },
-  {
-    "name": "Terraria Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Terraria"
-  },
-  {
-    "name": "Terraria Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Terraria"
-  },
-  {
-    "name": "TLoZ Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "The Legend of Zelda"
-  },
-  {
-    "name": "TLoZ Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "The Legend of Zelda"
-  },
-  {
-    "name": "TLoZ Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "The Legend of Zelda"
-  },
-  {
-    "name": "TLoZ Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "The Legend of Zelda"
-  },
-  {
-    "name": "TLoZ Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "The Legend of Zelda"
-  },
-  {
-    "name": "The Witness Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "The Witness"
-  },
-  {
-    "name": "The Witness Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "The Witness"
-  },
-  {
-    "name": "The Witness Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "The Witness"
-  },
-  {
-    "name": "The Witness Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "The Witness"
-  },
-  {
-    "name": "The Witness Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "The Witness"
-  },
-  {
-    "name": "Timespinner Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Timespinner"
-  },
-  {
-    "name": "Timespinner Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Timespinner"
-  },
-  {
-    "name": "Timespinner Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Timespinner"
-  },
-  {
-    "name": "Timespinner Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Timespinner"
-  },
-  {
-    "name": "Timespinner Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Timespinner"
-  },
-  {
-    "name": "Tunic Quest 1",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Tunic"
-  },
-  {
-    "name": "Tunic Quest 2",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Tunic"
-  },
-  {
-    "name": "Tunic Quest 3",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Tunic"
-  },
-  {
-    "name": "Tunic Quest 4",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Tunic"
-  },
-  {
-    "name": "Tunic Quest 5",
-    "category": [
-      "Quest"
-    ],
-    "count": "1",
-    "progression": true,
-    "game": "Tunic"
   },
   {
     "name": "A Short Hike - Golden Feather",
@@ -6444,13 +5481,49 @@
     "game": "Kingdom Hearts 2"
   },
   {
-    "name": "Kingdom Hearts 2 - Zeus' bolt",
+    "name": "Kingdom Hearts 2 - Zeus' lightning bolt",
     "category": [
       "Relic"
     ],
     "count": "1",
     "useful": true,
     "game": "Kingdom Hearts 2"
+  },
+  {
+    "name": "Luigi's Mansion - Fire Medallion",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Luigi's Mansion"
+  },
+  {
+    "name": "Luigi's Mansion - Ice Medallion",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Luigi's Mansion"
+  },
+  {
+    "name": "Luigi's Mansion - King Boo's Crown",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Luigi's Mansion"
+  },
+  {
+    "name": "Luigi's Mansion - Water Medallion",
+    "category": [
+      "Relic"
+    ],
+    "count": "1",
+    "useful": true,
+    "game": "Luigi's Mansion"
   },
   {
     "name": "FFXIV - Anemos Seventh Hell Armor",
@@ -6984,7 +6057,7 @@
     "game": "Super Mario 64"
   },
   {
-    "name": "Super Mario World - A 3 up",
+    "name": "Super Mario World - A 3-UP",
     "category": [
       "Relic"
     ],
@@ -6993,7 +6066,7 @@
     "game": "Super Mario World"
   },
   {
-    "name": "Super Mario World - A green pipe",
+    "name": "Super Mario World - A green Warp Pipe",
     "category": [
       "Relic"
     ],
@@ -7218,7 +6291,7 @@
     "game": "A Short Hike"
   },
   {
-    "name": "Trap - A Short Hike - A sudden snowstorm",
+    "name": "Trap - A Short Hike - A snowstorm starts to whip up",
     "category": [
       "Trap"
     ],
@@ -7398,7 +6471,16 @@
     "game": "Hollow Knight"
   },
   {
-    "name": "Ambush - Kingdom Hearts 2 - A horde of nobodies",
+    "name": "Ambush - Kingdom Hearts - A swarm of minor Heartless",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Kingdom Hearts"
+  },
+  {
+    "name": "Ambush - Kingdom Hearts 2 - A horde of Nobodies",
     "category": [
       "Trap"
     ],
@@ -7407,7 +6489,7 @@
     "game": "Kingdom Hearts 2"
   },
   {
-    "name": "Ambush - Kingdom Hearts 2 - A swarm of minor heartless",
+    "name": "Ambush - Kingdom Hearts 2 - A swarm of minor Heartless",
     "category": [
       "Trap"
     ],
@@ -7425,7 +6507,34 @@
     "game": "Kingdom Hearts 2"
   },
   {
-    "name": "Ambush - FFXIV - A plant turns out to be a cactaur",
+    "name": "Ambush - Luigi's Mansion - Prankster spirits",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Luigi's Mansion"
+  },
+  {
+    "name": "Trap - Luigi's Mansion - The door behind you gets covered in pointy brambles",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Luigi's Mansion"
+  },
+  {
+    "name": "Trap - Luigi's Mansion - The door behind you locks on its own",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Luigi's Mansion"
+  },
+  {
+    "name": "Ambush - FFXIV - A plant turns out to be a Cactuar",
     "category": [
       "Trap"
     ],
@@ -7587,13 +6696,22 @@
     "game": "Manual_PLA_Miro"
   },
   {
-    "name": "Ambush - Pkmn LA - You're chased by a territorial Carnivine",
+    "name": "Ambush - Pkmn LA - Chased by a territorial Carnivine",
     "category": [
       "Trap"
     ],
     "count": "1",
     "trap": true,
     "game": "Manual_PLA_Miro"
+  },
+  {
+    "name": "Ambush - Minecraft - ...Is that skeleton riding a giant spider?",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Minecraft"
   },
   {
     "name": "Ambush - Minecraft - An Enderman around a corner. Do you look?",
@@ -7614,16 +6732,7 @@
     "game": "Minecraft"
   },
   {
-    "name": "Ambush - Minecraft - Is that skeleton riding a spider?",
-    "category": [
-      "Trap"
-    ],
-    "count": "1",
-    "trap": true,
-    "game": "Minecraft"
-  },
-  {
-    "name": "Trap - Minecraft - A pressure plate clicks",
+    "name": "Trap - Minecraft - A pressure plate clicks under your feet",
     "category": [
       "Trap"
     ],
@@ -7650,7 +6759,7 @@
     "game": "Overcooked! 2"
   },
   {
-    "name": "Ambush - Pkmn Em - A camoflaged Kecleon blocks your path",
+    "name": "Ambush - Pkmn Em - A camouflaged Kecleon blocks your path",
     "category": [
       "Trap"
     ],
@@ -7668,7 +6777,7 @@
     "game": "Pokemon Emerald"
   },
   {
-    "name": "Ambush - Pkmn Em - A pair of team magma grunts",
+    "name": "Ambush - Pkmn Em - A pair of Team Magma grunts",
     "category": [
       "Trap"
     ],
@@ -7695,15 +6804,6 @@
     "game": "Pokemon Emerald"
   },
   {
-    "name": "Ambush - Pkmn R/B - A Lost Hiker challenges you to fight",
-    "category": [
-      "Trap"
-    ],
-    "count": "1",
-    "trap": true,
-    "game": "Pokemon Red and Blue"
-  },
-  {
     "name": "Ambush - Pkmn R/B - A Team Rocket grunt tries to steal your stuff",
     "category": [
       "Trap"
@@ -7713,7 +6813,16 @@
     "game": "Pokemon Red and Blue"
   },
   {
-    "name": "Ambush - Pkmn R/B - The ground rumbles as an Onyx appears",
+    "name": "Ambush - Pkmn R/B - A lost hiker challenges you to fight",
+    "category": [
+      "Trap"
+    ],
+    "count": "1",
+    "trap": true,
+    "game": "Pokemon Red and Blue"
+  },
+  {
+    "name": "Ambush - Pkmn R/B - The ground rumbles as an Onix appears",
     "category": [
       "Trap"
     ],
@@ -7830,7 +6939,7 @@
     "game": "Sonic Adventure 2 Battle"
   },
   {
-    "name": "Trap - SA2B - A boost pad sends you flying",
+    "name": "Trap - SA2B - A Dark Chao steals something from you",
     "category": [
       "Trap"
     ],
@@ -7839,7 +6948,7 @@
     "game": "Sonic Adventure 2 Battle"
   },
   {
-    "name": "Trap - SA2B - A dark chao steals something from you",
+    "name": "Trap - SA2B - A boost pad sends you flying",
     "category": [
       "Trap"
     ],
@@ -7920,7 +7029,7 @@
     "game": "Super Mario 64"
   },
   {
-    "name": "Trap - Super Mario 64 - A bob-omb about to explode",
+    "name": "Trap - Super Mario 64 - A Bob-omb about to explode",
     "category": [
       "Trap"
     ],
@@ -7947,7 +7056,7 @@
     "game": "Super Mario World"
   },
   {
-    "name": "Ambush - Super Mario World - A trio of Hammer Bros",
+    "name": "Ambush - Super Mario World - A trio of Hammer Bros.",
     "category": [
       "Trap"
     ],
@@ -7956,7 +7065,7 @@
     "game": "Super Mario World"
   },
   {
-    "name": "Trap - Super Mario World - A piranha plant",
+    "name": "Trap - Super Mario World - A Piranha Plant",
     "category": [
       "Trap"
     ],
@@ -8064,7 +7173,7 @@
     "game": "Terraria"
   },
   {
-    "name": "Trap - Terraria - A pit opens to the spider cave",
+    "name": "Trap - Terraria - A pit opens to a cave of spiders",
     "category": [
       "Trap"
     ],
@@ -8073,7 +7182,7 @@
     "game": "Terraria"
   },
   {
-    "name": "Ambush - TLoZ - A lynel charges you from nowhere",
+    "name": "Ambush - TLoZ - A Lynel charges you from nowhere",
     "category": [
       "Trap"
     ],
@@ -8082,7 +7191,7 @@
     "game": "The Legend of Zelda"
   },
   {
-    "name": "Ambush - TLoZ - An Octoroc pops out of the ground!",
+    "name": "Ambush - TLoZ - An Octorok pops out of the ground!",
     "category": [
       "Trap"
     ],
@@ -8091,7 +7200,7 @@
     "game": "The Legend of Zelda"
   },
   {
-    "name": "Trap - TLoZ - A moblin hurling explosives",
+    "name": "Trap - TLoZ - A Moblin hurling explosives",
     "category": [
       "Trap"
     ],

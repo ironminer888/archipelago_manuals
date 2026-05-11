@@ -47,7 +47,7 @@
 - Scream in frustration
 - Split into 2 smaller copies (each dangerous) when exposed to music
 
-# Pokemon Red and Blue
+## Pokemon Red and Blue
 
 ### Meowth
 
@@ -68,7 +68,9 @@
 
 - TODO
 
-##### Creature Template
+## Game Template
+
+### Creature Template
 
 **Rank:**
 

@@ -78,14 +78,14 @@ If you enable content from the Delve expansion in your YAML, you will also send 
 The following "items" can be sent to you through the Archipelago multiworld:
 
 - **Shard of Reality:** 10 shards are scattered throughout the multiworld
-- **Quests:** a total of 6 quests will be "assigned" to you through the multiworld. The main text of the quests are all listed below.
+- **Quests:** a total of 6 quests will be "assigned" to you through the multiworld. The main text of the quests are listed in [quests.md in the content folder.](./content/quests.md)
 - **Assets:** You will be assigned 3 starting assets, and then sent 3 additional assets throughout the game. The assets you are sent will have some flavor text describing how they are granted by some game in the multiworld.
 - **Asset Upgrades:** There are 6 asset upgrade items that allow you to unlock a new ability of an asset you have.
 - **Traps:** There are 5 Trap items, that either describe a physical trap that your character must avoid, or describe a monster/creature that ambushes your character.
 - **Useful Items:** You will receive 10 items of varying narrative usefulness.
 
 If you enable content from the Delve expansion in your YAML, you will also recieve these items:
-- **DELVE: Dungeon keys:** There are 4 dungeon keys shuffled into the item pool. The description for these dungeons is given below (or starting on page 94 in the Delve book for the pre-generated sites).
+- **DELVE: Dungeon keys:** There are 4 dungeon keys shuffled into the item pool. The description for these dungeons is listed in [dungeons.md in the content folder.](./content/dungeons.md) Details for the pre-generated sites start on page 94 in the *Delve* rulebook.
 - **DELVE: Relics:** There are 4 relics that can be sent to you. When you receive a relic, you choose an asset you have to assign the relic to.
 
 ## New Game Content
