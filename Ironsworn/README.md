@@ -269,15 +269,31 @@ This dungeon is full of twists and turns, secret doors and dead ends. You may re
 
 ##### Wayward Cave
 
-#### Pokemon Red and Blue
+#### Pokmon Red and Blue
 
 ##### Mt. Moon
 
-##### Pokmon Tower
+**Rank:** Troublesome
+**Theme:** Wild
+**Domain:** Cavern
+
+##### Pokémon Tower
+
+**Rank:** Dangerous
+**Theme:** Haunted
+**Domain:** Barrow
 
 ##### Power Plant
 
+**Rank:** Dangerous
+**Theme:** Haunted
+**Domain:** Barrow
+
 ##### Rocket Hideout
+
+**Rank:** Formidable
+**Theme:** Fortified
+**Domain:** Stronghold
 
 #### Stardew Valley
 
