@@ -23,7 +23,7 @@ Manual_FFXIV_Silasary:
   name: Trap
 - description: Caught by a pair of Sahagin
   name: Trap
-- description: A plant turns out to be a cactaur
+- description: A plant turns out to be a Cactuar
   name: Ambush
 - description: Surrounded by Imperial forces
   name: Ambush
@@ -56,17 +56,17 @@ Manual_PLA_Miro:
   name: Ambush
 - description: Ambushed by the Miss Fortune Bandits
   name: Ambush
-- description: You're chased by a territorial Carnivine
+- description: Chased by a territorial Carnivine
   name: Ambush
 Overcooked! 2:
 - description: The night of the unbread
   name: Ambush
 Pokemon Red and Blue:
-- description: A Lost Hiker challenges you to fight
+- description: A lost hiker challenges you to fight
   name: Ambush
 - description: A Team Rocket grunt tries to steal your stuff
   name: Ambush
-- description: The ground rumbles as an Onyx appears
+- description: The ground rumbles as an Onix appears
   name: Ambush
 - description: A grid of trash cans that electrocute you
   name: Trap
@@ -82,11 +82,11 @@ Stardew Valley:
 - description: A ladder opens beneath your feet to the floor below
   name: Trap
 The Legend of Zelda:
-- description: A lynel charges you from nowhere
+- description: A Lynel charges you from nowhere
   name: Ambush
-- description: An Octoroc pops out of the ground!
+- description: An Octorok pops out of the ground!
   name: Ambush
-- description: A moblin hurling explosives
+- description: A Moblin hurling explosives
   name: Trap
 The Witness:
 - description: A statue animates and attacks
@@ -121,11 +121,11 @@ Minecraft:
 - name: Ambush
   description: Hissssssssssss.... BOOM!
 - name: Trap
-  description: A pressure plate clicks
+  description: A pressure plate clicks under your feet
 - name: Trap
   description: A slot in the wall with an arrow dispenser
 - name: Ambush
-  description: Is that skeleton riding a spider?
+  description: ...Is that skeleton riding a giant spider?
 - name: Ambush
   description: An Enderman around a corner. Do you look?
 Factorio:
@@ -141,15 +141,15 @@ Factorio:
   description: Evolution! The next enemies you meet are stronger
 Kingdom Hearts 2:
 - name: Ambush
-  description: A swarm of minor heartless
+  description: A swarm of minor Heartless
 - name: Ambush
-  description: A horde of nobodies
+  description: A horde of Nobodies
 - name: Trap
 Pokemon Emerald:
 - name: Ambush
-  description: A pair of team magma grunts
+  description: A pair of Team Magma grunts
 - name: Ambush
-  description: A camoflaged Kecleon blocks your path
+  description: A camouflaged Kecleon blocks your path
 - name: Ambush
   description: A flock of hungry Wingull
 - name: Trap
@@ -178,7 +178,7 @@ Risk of Rain 2:
   description: A bighorn bison, undisturbed
 A Short Hike:
 - name: Trap
-  description: A sudden snowstorm
+  description: A snowstorm starts to whip up
 - name: Trap
   description: A ranger in a strange hat questions your travel permits
 - name: Trap
@@ -189,7 +189,7 @@ Sonic Adventure 2 Battle:
 - name: Ambush
   description: A horde of G.U.N. robots
 - name: Trap
-  description: A dark chao steals something from you
+  description: A Dark Chao steals something from you
 - name: Trap
   description: A random cutscene starts playing
 Super Mario 64:
@@ -198,16 +198,16 @@ Super Mario 64:
 - name: Ambush
   description: A horde of Goombas
 - name: Trap
-  description: A bob-omb about to explode
+  description: A Bob-omb about to explode
 - name: Trap
   description: A lake of lava
 - name: Ambush
   description: Big Bully charges you
 Super Mario World:
 - name: Trap
-  description: A piranha plant
+  description: A Piranha Plant
 - name: Ambush
-  description: A trio of Hammer Bros
+  description: A trio of Hammer Bros.
 - name: Ambush
   description: A stack of Goombas
 - name: Trap
@@ -235,7 +235,7 @@ Terraria:
 - name: Trap
   description: A pile of cacti
 - name: Trap
-  description: A pit opens to the spider cave
+  description: A pit opens to a cave of spiders
 Timespinner:
 - name: Ambush
   description: A meteor sparrow
@@ -247,3 +247,6 @@ Timespinner:
   description: A Cheveur
 - name: Ambush
   description: A host of royal guards
+Kingdom Hearts:
+- name: Ambush
+  description: A swarm of minor Heartless

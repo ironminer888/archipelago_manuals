@@ -113,13 +113,13 @@ Manual_PLA_Miro:
 - description: Lady Lucille aids you with mysterious charms
   name: TALISMAN
 Pokemon Red and Blue:
-- description: A pokedex tells you exactly what animals want
+- description: A Pokédex tells you exactly what animals want
   name: ANIMAL-KIN
 - description: A fierce Persian
   name: CAVE LION
 - description: You want to be the very best
   name: FATED
-- description: A beautiful Pigeot
+- description: A beautiful Pidgeot
   name: HAWK
 - description: A flaming Rapidash
   name: HORSE
@@ -193,7 +193,7 @@ DOOM 1993:
 - description: All is clear. I know what must be done... and my weapon is very, very
     large.
   name: HONORBOUND
-- description: RIP AND TEAR
+- description: RIP AND TEAR!
   name: BERSERKER
 - description: When knee deep in the dead, the only thing they fear is you.
   name: VISAGE
@@ -206,7 +206,7 @@ DOOM II:
   name: REVENANT
 - description: You know how to depend on your armor
   name: IRONCLAD
-- description: Death surrounds me, yet, in my head I hear something that soudns like
+- description: Death surrounds me, yet, in my head I hear something that sounds like
     angels.
   name: VETERAN
 - description: You are huge. That means you have huge guts.
@@ -312,7 +312,7 @@ Super Mario 64:
 - name: INFILTRATOR
   description: The skills to get deep in the castle
 - name: FIREBRAND [SF]
-  description: A fireflower
+  description: A Fire Flower
 - name: BRAWLER
   description: The incredible skill of jumping on enemies' heads
 - name: VETERAN
@@ -329,7 +329,7 @@ Super Mario World:
 - name: VETERAN
   description: The never ending battle for the Mushroom Kingdom
 - name: WARD
-  description: A super star grants protection
+  description: A Super Star grants you protection
 Super Metroid:
 - name: DEMOLITIONIST [SF]
   description: A collection of power bombs
@@ -338,7 +338,7 @@ Super Metroid:
 - name: FORTUNE HUNTER
   description: A mercenary's life
 - name: GIANT SPIDER
-  description: A strangely friendly metroid
+  description: A strangely friendly Metroid
 - name: SCRY
   description: Is that an in-game map?
 Terraria:
@@ -361,3 +361,12 @@ Timespinner:
   description: Twin pyramids let you jump between gates
 - name: SIGHTED
   description: Knowledge from the future
+Kingdom Hearts:
+- name: BONDED
+  description: Faith in your friends -- and yourself
+- name: LOREKEEPER
+  description: Ansem's reports contain sage knowledge
+- name: LOYALIST
+  description: All for one, and one for all
+- name: KINDRED
+  description: Knight Captain Goofy, at your service
