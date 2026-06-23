@@ -1,6 +1,6 @@
-## New Assets
+# New Assets
 
-### Bear
+## Bear
 
 *A bear companion tracks your prey.*
 

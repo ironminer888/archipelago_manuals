@@ -1,6 +1,6 @@
 # Dungeons by Game
 
-## DOOM 1993
+## DOOM (1993)
 
 ### Deimos Lab
 
@@ -38,9 +38,9 @@ Ironsworn dungeons are given in the Delve book on page 94.
 
 ### The Demon
 
-**Rank:** Extreme
-**Theme:** Ravaged
-**Domain:** Underkeep
+- **Rank:** Extreme
+- **Theme:** Ravaged
+- **Domain:** Underkeep
 
 **Denizens:** Keese [bat] (very common), Stalfos [skeleton] (very common), Digdogger (uncommon), An old man with bombs to sell (rare), Aquamentus (rare)
 
@@ -68,7 +68,7 @@ This dungeon is full of twists and turns, secret doors and dead ends. You may re
 
 ### Munch Mansion
 
-## Pokemon Legends Arceus
+## Pokémon Legends Arceus
 
 ### Ancient Quarry
 
@@ -78,41 +78,43 @@ This dungeon is full of twists and turns, secret doors and dead ends. You may re
 
 ### Wayward Cave
 
-## Pokmon Red and Blue
+## Pokémon Red and Blue
 
 ### Mt. Moon
 
-**Rank:** Troublesome
-**Theme:** Wild
-**Domain:** Cavern
+- **Rank:** Troublesome
+- **Theme:** Wild
+- **Domain:** Cavern
 
 **Denizens:** Zubat (very common), Geodude (common), camper (common), Paras (uncommon), hiker (uncommon), Clefairy (rare) 
 
 ### Pokémon Tower
 
-**Rank:** Dangerous
-**Theme:** Haunted / Hallowed (choose one or use both)
-**Domain:** Barrow
+- **Rank:** Dangerous
+- **Theme:** Haunted / Hallowed (choose one or use both)
+- **Domain:** Barrow
 
 ### Power Plant
 
-**Rank:** Dangerous
-**Theme:** Ravaged
-**Domain:** Underkeep
-
-**Denizens:** 
+- **Rank:** Dangerous
+- **Theme:** Ravaged
+- **Domain:** Underkeep
 
 ### Rocket Hideout
 
-**Rank:** Formidable
-**Theme:** Fortified
-**Domain:** Stronghold
+- **Rank:** Formidable
+- **Theme:** Fortified
+- **Domain:** Stronghold
 
 **Denizens:** Team Rocket grunt (common), stray Meowth (uncommon), Koffing (uncommon)
 
 ## Stardew Valley
 
 ### The Deep Mines
+
+- **Rank:** Dangerous
+- **Theme:** Infested
+- **Domain:** Mine
 
 ### The Quarry Mine
 

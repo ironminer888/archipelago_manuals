@@ -47,11 +47,21 @@
 - Scream in frustration
 - Split into 2 smaller copies (each dangerous) when exposed to music
 
-## Pokemon Red and Blue
+## Pokémon Red and Blue
+
+## Clefairy
+
+**Rank:** Troublesome
+
+**Features:**
+
+- Round, pink body
+- Tiny fairy wings
+- Playful nature
 
 ### Meowth
 
-**Rank:** Troublesome
+**Rank:** Dangerous
 
 **Features:**
 
@@ -66,7 +76,8 @@
 
 **Tactics:**
 
-- TODO
+- Scratch with claws
+- Attack from unexpected places
 
 ## Game Template
 
